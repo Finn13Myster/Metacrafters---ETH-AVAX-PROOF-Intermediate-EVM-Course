@@ -28,7 +28,7 @@ Reverts the state of a game back to `Available`, allowing for state reset if nee
 
 ### IDE
 
-No specific tools were installed for development; the contract was developed using Remix IDE.
+the contract was developed using Remix IDE. So, the entire project was developed using Remix.
 
 ### Compile
 
