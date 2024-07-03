@@ -1,4 +1,5 @@
-##unctions and Errors
+###unctions and Errors
+
 This repository was made for a project in Metacrafters where I was required to create a contract with assert(), revert(), and require().
 
 ## Functions
